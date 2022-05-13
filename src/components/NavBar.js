@@ -10,7 +10,7 @@ function Navbar() {
 					<li className="logo">
 						<h1>OmniaPaku</h1>
 					</li>
-					<div className="desktop-wrapper large-vis">
+					{/* <div className="desktop-wrapper large-vis">
 						<a href="#local">
 							<li>Etusivu</li>
 						</a>
@@ -33,7 +33,8 @@ function Navbar() {
 
 					<li className="large-vis">
 						<button>Varaa OmniaPaku</button>
-					</li>
+					</li> */}
+
 					<Menu2
 						className="nav-menu-btn"
 						style={{ cursor: 'pointer' }}
