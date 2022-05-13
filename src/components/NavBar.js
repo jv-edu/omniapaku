@@ -42,7 +42,7 @@ function Navbar() {
 				</ul>
 			</header>
 
-			<Sidebar style={{ display: 'none' }}></Sidebar>
+			{/* <Sidebar style={{ display: 'none' }}></Sidebar> */}
 		</>
 	)
 }
